@@ -1,3 +1,13 @@
+Run these commands when starting project on new workstation:
+> npm install node
+> npm install react
+> npm install react-router-dom
+> npm i --save @fortawesome/react-fontawesome@latest
+> npm i --save @fortawesome/free-solid-svg-icons
+> npm i --save @fortawesome/free-regular-svg-icons
+
+Npm install react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
