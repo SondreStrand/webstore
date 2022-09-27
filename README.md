@@ -1,5 +1,5 @@
 Run these commands when starting project on new workstation:
-> npm install node,
+> Download and install Node js
 > 
 > npm install react,
 > 
